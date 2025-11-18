@@ -1,0 +1,1046 @@
+{
+  "profiles": {
+    "fc7a1c6b-1454-44aa-80cc-ba0ec9107c02": {
+      "homeAirport": "DSM ",
+      "interests": [
+        "culture",
+        "food"
+      ],
+      "budget": "mid-range",
+      "travelStyle": "outdoors",
+      "travelers": "Solo adventurer",
+      "updatedAt": "2025-11-18T03:38:44.961Z"
+    },
+    "c00f0499-2ee7-4797-9b4a-4c7c86a61100": {
+      "homeAirport": "DSM",
+      "interests": [
+        "culture",
+        "food",
+        "mountain"
+      ],
+      "budget": "mid-range",
+      "travelStyle": "balanced",
+      "travelers": "Family",
+      "updatedAt": "2025-11-18T03:44:17.930Z"
+    },
+    "b3ae8444-4fc6-47c2-80bf-cf4d1dfc8a3a": {
+      "homeAirport": "SFO",
+      "interests": [
+        "culture",
+        "food"
+      ],
+      "budget": "mid-range",
+      "travelStyle": "balanced",
+      "travelers": "Solo adventurer",
+      "updatedAt": "2025-11-18T04:02:02.914Z"
+    },
+    "18a27b7a-7fc0-43b6-ba36-fc91aa8084f9": {
+      "homeAirport": "SFO",
+      "interests": [
+        "culture",
+        "food"
+      ],
+      "budget": "mid-range",
+      "travelStyle": "balanced",
+      "travelers": "Solo adventurer",
+      "updatedAt": "2025-11-18T04:10:59.340Z"
+    }
+  },
+  "conversations": {
+    "fc7a1c6b-1454-44aa-80cc-ba0ec9107c02": [
+      {
+        "role": "user",
+        "content": "Trip to san franscisco",
+        "timestamp": "2025-11-18T03:37:49.797Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Blend morning focus blocks with late-afternoon tapas crawls and seaside resets tailored to remote professionals.",
+        "data": {
+          "title": "Barcelona Remote Work + Culture Sprint",
+          "summary": "Blend morning focus blocks with late-afternoon tapas crawls and seaside resets tailored to remote professionals.",
+          "travelerPersona": "Remote professional seeking vibrant neighborhoods, art and easy transit.",
+          "dayPlans": [
+            {
+              "day": "Day 1",
+              "city": "Barcelona",
+              "morning": "Heads-down work session at co-working space near Passeig de Gràcia.",
+              "afternoon": "La Sagrada Família small-group tour and Eixample tapas walk.",
+              "evening": "Sunset at Bunkers del Carmel followed by paella near Barceloneta.",
+              "notes": "Purchase T-mobilitat card for unlimited transit."
+            },
+            {
+              "day": "Day 2",
+              "city": "Barcelona",
+              "morning": "Coffee at Nomad Coffee Lab and async work at hotel lounge.",
+              "afternoon": "Picasso Museum visit and Gothic Quarter architecture stroll.",
+              "evening": "Flamenco show in El Born with late-night churros.",
+              "notes": "Reserve timed tickets to avoid queues."
+            }
+          ],
+          "travelTips": [
+            "Use Hola Barcelona card for 48/72 hour metro coverage.",
+            "Pre-book popular attractions two weeks in advance.",
+            "Restaurants start dinner after 8pm; plan snacks."
+          ],
+          "memoryHints": [
+            "Prefers co-working friendly itineraries.",
+            "Enjoys art, tapas and scenic overlooks.",
+            "Flexible budget for immersive experiences."
+          ]
+        },
+        "timestamp": "2025-11-18T03:37:49.799Z"
+      },
+      {
+        "role": "user",
+        "content": "full trip",
+        "timestamp": "2025-11-18T03:38:12.279Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Blend morning focus blocks with late-afternoon tapas crawls and seaside resets tailored to remote professionals.",
+        "data": {
+          "title": "Barcelona Remote Work + Culture Sprint",
+          "summary": "Blend morning focus blocks with late-afternoon tapas crawls and seaside resets tailored to remote professionals.",
+          "travelerPersona": "Remote professional seeking vibrant neighborhoods, art and easy transit.",
+          "dayPlans": [
+            {
+              "day": "Day 1",
+              "city": "Barcelona",
+              "morning": "Heads-down work session at co-working space near Passeig de Gràcia.",
+              "afternoon": "La Sagrada Família small-group tour and Eixample tapas walk.",
+              "evening": "Sunset at Bunkers del Carmel followed by paella near Barceloneta.",
+              "notes": "Purchase T-mobilitat card for unlimited transit."
+            },
+            {
+              "day": "Day 2",
+              "city": "Barcelona",
+              "morning": "Coffee at Nomad Coffee Lab and async work at hotel lounge.",
+              "afternoon": "Picasso Museum visit and Gothic Quarter architecture stroll.",
+              "evening": "Flamenco show in El Born with late-night churros.",
+              "notes": "Reserve timed tickets to avoid queues."
+            }
+          ],
+          "travelTips": [
+            "Use Hola Barcelona card for 48/72 hour metro coverage.",
+            "Pre-book popular attractions two weeks in advance.",
+            "Restaurants start dinner after 8pm; plan snacks."
+          ],
+          "memoryHints": [
+            "Prefers co-working friendly itineraries.",
+            "Enjoys art, tapas and scenic overlooks.",
+            "Flexible budget for immersive experiences."
+          ]
+        },
+        "timestamp": "2025-11-18T03:38:12.281Z"
+      }
+    ],
+    "981bdac3-7585-4896-8c4e-67f8f9f3f665": [
+      {
+        "role": "user",
+        "content": "Travel to New York",
+        "timestamp": "2025-11-18T03:46:52.078Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Blend morning focus blocks with late-afternoon tapas crawls and seaside resets tailored to remote professionals.",
+        "data": {
+          "title": "Barcelona Remote Work + Culture Sprint",
+          "summary": "Blend morning focus blocks with late-afternoon tapas crawls and seaside resets tailored to remote professionals.",
+          "travelerPersona": "Remote professional seeking vibrant neighborhoods, art and easy transit.",
+          "dayPlans": [
+            {
+              "day": "Day 1",
+              "city": "Barcelona",
+              "morning": "Heads-down work session at co-working space near Passeig de Gràcia.",
+              "afternoon": "La Sagrada Família small-group tour and Eixample tapas walk.",
+              "evening": "Sunset at Bunkers del Carmel followed by paella near Barceloneta.",
+              "notes": "Purchase T-mobilitat card for unlimited transit."
+            },
+            {
+              "day": "Day 2",
+              "city": "Barcelona",
+              "morning": "Coffee at Nomad Coffee Lab and async work at hotel lounge.",
+              "afternoon": "Picasso Museum visit and Gothic Quarter architecture stroll.",
+              "evening": "Flamenco show in El Born with late-night churros.",
+              "notes": "Reserve timed tickets to avoid queues."
+            }
+          ],
+          "travelTips": [
+            "Use Hola Barcelona card for 48/72 hour metro coverage.",
+            "Pre-book popular attractions two weeks in advance.",
+            "Restaurants start dinner after 8pm; plan snacks."
+          ],
+          "memoryHints": [
+            "Prefers co-working friendly itineraries.",
+            "Enjoys art, tapas and scenic overlooks.",
+            "Flexible budget for immersive experiences."
+          ]
+        },
+        "timestamp": "2025-11-18T03:46:52.080Z"
+      },
+      {
+        "role": "user",
+        "content": "Travel to New York ",
+        "timestamp": "2025-11-18T03:47:15.230Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Blend morning focus blocks with late-afternoon tapas crawls and seaside resets tailored to remote professionals.",
+        "data": {
+          "title": "Barcelona Remote Work + Culture Sprint",
+          "summary": "Blend morning focus blocks with late-afternoon tapas crawls and seaside resets tailored to remote professionals.",
+          "travelerPersona": "Remote professional seeking vibrant neighborhoods, art and easy transit.",
+          "dayPlans": [
+            {
+              "day": "Day 1",
+              "city": "Barcelona",
+              "morning": "Heads-down work session at co-working space near Passeig de Gràcia.",
+              "afternoon": "La Sagrada Família small-group tour and Eixample tapas walk.",
+              "evening": "Sunset at Bunkers del Carmel followed by paella near Barceloneta.",
+              "notes": "Purchase T-mobilitat card for unlimited transit."
+            },
+            {
+              "day": "Day 2",
+              "city": "Barcelona",
+              "morning": "Coffee at Nomad Coffee Lab and async work at hotel lounge.",
+              "afternoon": "Picasso Museum visit and Gothic Quarter architecture stroll.",
+              "evening": "Flamenco show in El Born with late-night churros.",
+              "notes": "Reserve timed tickets to avoid queues."
+            }
+          ],
+          "travelTips": [
+            "Use Hola Barcelona card for 48/72 hour metro coverage.",
+            "Pre-book popular attractions two weeks in advance.",
+            "Restaurants start dinner after 8pm; plan snacks."
+          ],
+          "memoryHints": [
+            "Prefers co-working friendly itineraries.",
+            "Enjoys art, tapas and scenic overlooks.",
+            "Flexible budget for immersive experiences."
+          ]
+        },
+        "timestamp": "2025-11-18T03:47:15.234Z"
+      },
+      {
+        "role": "user",
+        "content": "Travel to New York\n",
+        "timestamp": "2025-11-18T03:51:43.413Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Blend morning focus blocks with late-afternoon tapas crawls and seaside resets tailored to remote professionals.",
+        "data": {
+          "title": "Barcelona Remote Work + Culture Sprint",
+          "summary": "Blend morning focus blocks with late-afternoon tapas crawls and seaside resets tailored to remote professionals.",
+          "travelerPersona": "Remote professional seeking vibrant neighborhoods, art and easy transit.",
+          "dayPlans": [
+            {
+              "day": "Day 1",
+              "city": "Barcelona",
+              "morning": "Heads-down work session at co-working space near Passeig de Gràcia.",
+              "afternoon": "La Sagrada Família small-group tour and Eixample tapas walk.",
+              "evening": "Sunset at Bunkers del Carmel followed by paella near Barceloneta.",
+              "notes": "Purchase T-mobilitat card for unlimited transit."
+            },
+            {
+              "day": "Day 2",
+              "city": "Barcelona",
+              "morning": "Coffee at Nomad Coffee Lab and async work at hotel lounge.",
+              "afternoon": "Picasso Museum visit and Gothic Quarter architecture stroll.",
+              "evening": "Flamenco show in El Born with late-night churros.",
+              "notes": "Reserve timed tickets to avoid queues."
+            }
+          ],
+          "travelTips": [
+            "Use Hola Barcelona card for 48/72 hour metro coverage.",
+            "Pre-book popular attractions two weeks in advance.",
+            "Restaurants start dinner after 8pm; plan snacks."
+          ],
+          "memoryHints": [
+            "Prefers co-working friendly itineraries.",
+            "Enjoys art, tapas and scenic overlooks.",
+            "Flexible budget for immersive experiences."
+          ]
+        },
+        "timestamp": "2025-11-18T03:51:43.414Z"
+      }
+    ],
+    "37bf9d59-8978-4535-9f34-7f3db9a8e3be": [
+      {
+        "role": "user",
+        "content": "Trip to New York",
+        "timestamp": "2025-11-18T03:56:02.186Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Blend morning focus blocks with late-afternoon tapas crawls and seaside resets tailored to remote professionals.",
+        "data": {
+          "title": "Barcelona Remote Work + Culture Sprint",
+          "summary": "Blend morning focus blocks with late-afternoon tapas crawls and seaside resets tailored to remote professionals.",
+          "travelerPersona": "Remote professional seeking vibrant neighborhoods, art and easy transit.",
+          "dayPlans": [
+            {
+              "day": "Day 1",
+              "city": "Barcelona",
+              "morning": "Heads-down work session at co-working space near Passeig de Gràcia.",
+              "afternoon": "La Sagrada Família small-group tour and Eixample tapas walk.",
+              "evening": "Sunset at Bunkers del Carmel followed by paella near Barceloneta.",
+              "notes": "Purchase T-mobilitat card for unlimited transit."
+            },
+            {
+              "day": "Day 2",
+              "city": "Barcelona",
+              "morning": "Coffee at Nomad Coffee Lab and async work at hotel lounge.",
+              "afternoon": "Picasso Museum visit and Gothic Quarter architecture stroll.",
+              "evening": "Flamenco show in El Born with late-night churros.",
+              "notes": "Reserve timed tickets to avoid queues."
+            }
+          ],
+          "travelTips": [
+            "Use Hola Barcelona card for 48/72 hour metro coverage.",
+            "Pre-book popular attractions two weeks in advance.",
+            "Restaurants start dinner after 8pm; plan snacks."
+          ],
+          "memoryHints": [
+            "Prefers co-working friendly itineraries.",
+            "Enjoys art, tapas and scenic overlooks.",
+            "Flexible budget for immersive experiences."
+          ]
+        },
+        "timestamp": "2025-11-18T03:56:02.188Z"
+      },
+      {
+        "role": "user",
+        "content": "Trip to New York",
+        "timestamp": "2025-11-18T03:56:43.586Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Blend morning focus blocks with late-afternoon tapas crawls and seaside resets tailored to remote professionals.",
+        "data": {
+          "title": "Barcelona Remote Work + Culture Sprint",
+          "summary": "Blend morning focus blocks with late-afternoon tapas crawls and seaside resets tailored to remote professionals.",
+          "travelerPersona": "Remote professional seeking vibrant neighborhoods, art and easy transit.",
+          "dayPlans": [
+            {
+              "day": "Day 1",
+              "city": "Barcelona",
+              "morning": "Heads-down work session at co-working space near Passeig de Gràcia.",
+              "afternoon": "La Sagrada Família small-group tour and Eixample tapas walk.",
+              "evening": "Sunset at Bunkers del Carmel followed by paella near Barceloneta.",
+              "notes": "Purchase T-mobilitat card for unlimited transit."
+            },
+            {
+              "day": "Day 2",
+              "city": "Barcelona",
+              "morning": "Coffee at Nomad Coffee Lab and async work at hotel lounge.",
+              "afternoon": "Picasso Museum visit and Gothic Quarter architecture stroll.",
+              "evening": "Flamenco show in El Born with late-night churros.",
+              "notes": "Reserve timed tickets to avoid queues."
+            }
+          ],
+          "travelTips": [
+            "Use Hola Barcelona card for 48/72 hour metro coverage.",
+            "Pre-book popular attractions two weeks in advance.",
+            "Restaurants start dinner after 8pm; plan snacks."
+          ],
+          "memoryHints": [
+            "Prefers co-working friendly itineraries.",
+            "Enjoys art, tapas and scenic overlooks.",
+            "Flexible budget for immersive experiences."
+          ]
+        },
+        "timestamp": "2025-11-18T03:56:43.587Z"
+      },
+      {
+        "role": "user",
+        "content": "Trip to New York",
+        "timestamp": "2025-11-18T03:58:59.120Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Blend morning focus blocks with late-afternoon tapas crawls and seaside resets tailored to remote professionals.",
+        "data": {
+          "title": "Barcelona Remote Work + Culture Sprint",
+          "summary": "Blend morning focus blocks with late-afternoon tapas crawls and seaside resets tailored to remote professionals.",
+          "travelerPersona": "Remote professional seeking vibrant neighborhoods, art and easy transit.",
+          "dayPlans": [
+            {
+              "day": "Day 1",
+              "city": "Barcelona",
+              "morning": "Heads-down work session at co-working space near Passeig de Gràcia.",
+              "afternoon": "La Sagrada Família small-group tour and Eixample tapas walk.",
+              "evening": "Sunset at Bunkers del Carmel followed by paella near Barceloneta.",
+              "notes": "Purchase T-mobilitat card for unlimited transit."
+            },
+            {
+              "day": "Day 2",
+              "city": "Barcelona",
+              "morning": "Coffee at Nomad Coffee Lab and async work at hotel lounge.",
+              "afternoon": "Picasso Museum visit and Gothic Quarter architecture stroll.",
+              "evening": "Flamenco show in El Born with late-night churros.",
+              "notes": "Reserve timed tickets to avoid queues."
+            }
+          ],
+          "travelTips": [
+            "Use Hola Barcelona card for 48/72 hour metro coverage.",
+            "Pre-book popular attractions two weeks in advance.",
+            "Restaurants start dinner after 8pm; plan snacks."
+          ],
+          "memoryHints": [
+            "Prefers co-working friendly itineraries.",
+            "Enjoys art, tapas and scenic overlooks.",
+            "Flexible budget for immersive experiences."
+          ]
+        },
+        "timestamp": "2025-11-18T03:58:59.122Z"
+      }
+    ],
+    "b3ae8444-4fc6-47c2-80bf-cf4d1dfc8a3a": [
+      {
+        "role": "user",
+        "content": "Trip to New York",
+        "timestamp": "2025-11-18T04:02:05.300Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Blend morning focus blocks with late-afternoon tapas crawls and seaside resets tailored to remote professionals.",
+        "data": {
+          "title": "Barcelona Remote Work + Culture Sprint",
+          "summary": "Blend morning focus blocks with late-afternoon tapas crawls and seaside resets tailored to remote professionals.",
+          "travelerPersona": "Remote professional seeking vibrant neighborhoods, art and easy transit.",
+          "dayPlans": [
+            {
+              "day": "Day 1",
+              "city": "Barcelona",
+              "morning": "Heads-down work session at co-working space near Passeig de Gràcia.",
+              "afternoon": "La Sagrada Família small-group tour and Eixample tapas walk.",
+              "evening": "Sunset at Bunkers del Carmel followed by paella near Barceloneta.",
+              "notes": "Purchase T-mobilitat card for unlimited transit."
+            },
+            {
+              "day": "Day 2",
+              "city": "Barcelona",
+              "morning": "Coffee at Nomad Coffee Lab and async work at hotel lounge.",
+              "afternoon": "Picasso Museum visit and Gothic Quarter architecture stroll.",
+              "evening": "Flamenco show in El Born with late-night churros.",
+              "notes": "Reserve timed tickets to avoid queues."
+            }
+          ],
+          "travelTips": [
+            "Use Hola Barcelona card for 48/72 hour metro coverage.",
+            "Pre-book popular attractions two weeks in advance.",
+            "Restaurants start dinner after 8pm; plan snacks."
+          ],
+          "memoryHints": [
+            "Prefers co-working friendly itineraries.",
+            "Enjoys art, tapas and scenic overlooks.",
+            "Flexible budget for immersive experiences."
+          ]
+        },
+        "timestamp": "2025-11-18T04:02:05.301Z"
+      },
+      {
+        "role": "user",
+        "content": "Trip to New York",
+        "timestamp": "2025-11-18T04:04:31.602Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Blend morning focus blocks with late-afternoon tapas crawls and seaside resets tailored to remote professionals.",
+        "data": {
+          "title": "Barcelona Remote Work + Culture Sprint",
+          "summary": "Blend morning focus blocks with late-afternoon tapas crawls and seaside resets tailored to remote professionals.",
+          "travelerPersona": "Remote professional seeking vibrant neighborhoods, art and easy transit.",
+          "dayPlans": [
+            {
+              "day": "Day 1",
+              "city": "Barcelona",
+              "morning": "Heads-down work session at co-working space near Passeig de Gràcia.",
+              "afternoon": "La Sagrada Família small-group tour and Eixample tapas walk.",
+              "evening": "Sunset at Bunkers del Carmel followed by paella near Barceloneta.",
+              "notes": "Purchase T-mobilitat card for unlimited transit."
+            },
+            {
+              "day": "Day 2",
+              "city": "Barcelona",
+              "morning": "Coffee at Nomad Coffee Lab and async work at hotel lounge.",
+              "afternoon": "Picasso Museum visit and Gothic Quarter architecture stroll.",
+              "evening": "Flamenco show in El Born with late-night churros.",
+              "notes": "Reserve timed tickets to avoid queues."
+            }
+          ],
+          "travelTips": [
+            "Use Hola Barcelona card for 48/72 hour metro coverage.",
+            "Pre-book popular attractions two weeks in advance.",
+            "Restaurants start dinner after 8pm; plan snacks."
+          ],
+          "memoryHints": [
+            "Prefers co-working friendly itineraries.",
+            "Enjoys art, tapas and scenic overlooks.",
+            "Flexible budget for immersive experiences."
+          ]
+        },
+        "timestamp": "2025-11-18T04:04:31.604Z"
+      },
+      {
+        "role": "user",
+        "content": "Trip to New York",
+        "timestamp": "2025-11-18T04:05:33.603Z"
+      },
+      {
+        "role": "assistant",
+        "content": "{\n  \"title\": \"Solo Adventure in the Big Apple\",\n  \"summary\": \"Explore iconic NYC neighborhoods, savor diverse cuisine, and enjoy cultural attractions at a relaxed pace\",\n  \"travelerPersona\": \"Solo adventurer seeking a balanced experience\",\n  \"dayPlans\": [\n    {\n      \"day\": \"Day 1\",\n      \"city\": \"N",
+        "data": {
+          "title": "Travel Plan",
+          "summary": "{\n  \"title\": \"Solo Adventure in the Big Apple\",\n  \"summary\": \"Explore iconic NYC neighborhoods, savor diverse cuisine, and enjoy cultural attractions at a relaxed pace\",\n  \"travelerPersona\": \"Solo adventurer seeking a balanced experience\",\n  \"dayPlans\": [\n    {\n      \"day\": \"Day 1\",\n      \"city\": \"N",
+          "dayPlans": []
+        },
+        "timestamp": "2025-11-18T04:05:33.604Z"
+      },
+      {
+        "role": "user",
+        "content": "Trip to New York",
+        "timestamp": "2025-11-18T04:07:55.240Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Explore iconic NYC neighborhoods, savor diverse cuisine, and enjoy cultural attractions at a relaxed pace",
+        "data": {
+          "title": "Solo Adventure in the Big Apple",
+          "summary": "Explore iconic NYC neighborhoods, savor diverse cuisine, and enjoy cultural attractions at a relaxed pace",
+          "travelerPersona": "Solo adventurer seeking a balanced experience",
+          "dayPlans": [
+            {
+              "day": "Day 1",
+              "city": "New York City",
+              "morning": "Arrive at JFK, take subway to Midtown, check-in to hotel, and explore nearby Bryant Park",
+              "afternoon": "Walk to the Museum of Modern Art (MoMA), visit iconic artworks, and grab lunch at a nearby cafe",
+              "evening": "Head to the West Village for dinner and drinks, exploring charming streets and historic brownstones",
+              "notes": "Buy a MetroCard for easy subway travel, consider a Midtown hotel for central access"
+            },
+            {
+              "day": "Day 2",
+              "city": "New York City",
+              "morning": "Take the subway to Lower Manhattan, visit 9/11 Memorial & Museum, and walk across the Brooklyn Bridge",
+              "afternoon": "Explore DUMBO, Brooklyn, and grab lunch at a trendy cafe or food truck",
+              "evening": "Enjoy dinner in Chinatown, try authentic eats, and explore the vibrant neighborhood",
+              "notes": "Be prepared for security checks at 9/11 Memorial, consider a food tour in Chinatown"
+            },
+            {
+              "day": "Day 3",
+              "city": "New York City",
+              "morning": "Visit the iconic Grand Central Terminal, grab breakfast at the Grand Central Market",
+              "afternoon": "Take a stroll through Central Park, visit the Metropolitan Museum of Art, and enjoy a picnic lunch",
+              "evening": "Head to the Theater District, catch a Broadway show, and enjoy dinner at a classic NYC restaurant",
+              "notes": "Book Broadway tickets in advance, consider a guided tour of Central Park"
+            },
+            {
+              "day": "Day 4",
+              "city": "New York City",
+              "morning": "Take the subway to Williamsburg, Brooklyn, explore vintage shops and street art",
+              "afternoon": "Grab brunch at a trendy cafe, visit the Brooklyn Museum, and explore Prospect Park",
+              "evening": "Enjoy a farewell dinner in the East Village, try a classic NYC pizzeria, and head back to the airport for departure",
+              "notes": "Be prepared for crowds in Williamsburg, consider a food tour in the East Village"
+            }
+          ],
+          "travelTips": [
+            "Buy a MetroCard for easy subway travel",
+            "Book Broadway tickets in advance",
+            "Be prepared for security checks at 9/11 Memorial"
+          ],
+          "memoryHints": [
+            "Try a classic NYC hot dog",
+            "Explore iconic NYC neighborhoods",
+            "Enjoy diverse cultural attractions"
+          ]
+        },
+        "timestamp": "2025-11-18T04:07:55.242Z"
+      }
+    ],
+    "18a27b7a-7fc0-43b6-ba36-fc91aa8084f9": [
+      {
+        "role": "user",
+        "content": "Trip to Ha Noi vIET NAM",
+        "timestamp": "2025-11-18T04:08:55.809Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Immerse in Ha Noi's rich culture, savor local flavors, and take in breathtaking views",
+        "data": {
+          "title": "Discover Ha Noi's Hidden Gems",
+          "summary": "Immerse in Ha Noi's rich culture, savor local flavors, and take in breathtaking views",
+          "travelerPersona": "Solo adult seeking a balanced experience",
+          "dayPlans": [
+            {
+              "day": "Day 1",
+              "city": "Ha Noi",
+              "morning": "Arrive at Noi Bai International Airport, transfer to Old Quarter, check-in at a mid-range hotel in Hoan Kiem district",
+              "afternoon": "Explore the Old Quarter, visit Bach Ma Temple, and enjoy a traditional Vietnamese lunch at a local eatery",
+              "evening": "Wander around Hoan Kiem Lake, enjoy street food and local coffee",
+              "notes": "Be prepared for crowds and noise in the Old Quarter, try to avoid rush hour traffic"
+            },
+            {
+              "day": "Day 2",
+              "city": "Ha Noi",
+              "morning": "Visit the Ho Chi Minh Mausoleum and the Presidential Palace, then head to the Temple of Literature",
+              "afternoon": "Take a taxi to the West Lake area, enjoy lunch at a local restaurant, and explore the Tran Quoc Pagoda",
+              "evening": "Enjoy a traditional Vietnamese water puppet show",
+              "notes": "Dress modestly for temple visits, be prepared for security checks at the mausoleum"
+            },
+            {
+              "day": "Day 3",
+              "city": "Ha Noi",
+              "morning": "Take a day trip to Ha Long Bay (book a mid-range cruise in advance), enjoy the scenic views and seafood lunch",
+              "afternoon": "Kayak or swim in the emerald waters, explore hidden caves",
+              "evening": "Return to Ha Noi, enjoy a farewell dinner at a local restaurant",
+              "notes": "Check the weather forecast and cruise schedule in advance, be prepared for crowds and sun exposure"
+            },
+            {
+              "day": "Day 4",
+              "city": "Ha Noi",
+              "morning": "Visit the Dong Xuan Market, try some local street food for breakfast",
+              "afternoon": "Explore the French Quarter, visit the Opera House and the Sofitel Legend Metropole Hanoi",
+              "evening": "Depart for the airport, head back to SFO",
+              "notes": "Bargain at the market, be prepared for a busy morning"
+            }
+          ],
+          "travelTips": [
+            "Learn some basic Vietnamese phrases, such as 'Xin chào' (hello) and 'Cảm ơn' (thank you)",
+            "Be mindful of traffic rules and pedestrian safety",
+            "Try to avoid eating from street vendors that are not popular with locals"
+          ],
+          "memoryHints": [
+            "Ha Noi's Old Quarter is a great place to try local street food",
+            "The scenic views of Ha Long Bay are breathtaking"
+          ]
+        },
+        "timestamp": "2025-11-18T04:08:55.811Z"
+      },
+      {
+        "role": "user",
+        "content": "Trip to Da Nang",
+        "timestamp": "2025-11-18T04:10:22.888Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Explore Da Nang's vibrant culture, stunning beaches, and scenic views",
+        "data": {
+          "title": "Discover Da Nang's Coastal Charm",
+          "summary": "Explore Da Nang's vibrant culture, stunning beaches, and scenic views",
+          "travelerPersona": "Solo adult seeking a balanced mix of culture, food, and scenic views",
+          "dayPlans": [
+            {
+              "day": "Day 1",
+              "city": "Da Nang",
+              "morning": "Arrive at Da Nang International Airport, transfer to hotel in Hai Chau District, visit nearby Con Market for local flavors and souvenirs",
+              "afternoon": "Explore Marble Mountains, a scenic spot with stunning views and Buddhist sanctuaries",
+              "evening": "Enjoy seafood dinner at a local restaurant in My Khe Beach area",
+              "notes": "Check-in to a mid-range hotel in Hai Chau District for easy access to city attractions"
+            },
+            {
+              "day": "Day 2",
+              "city": "Hoi An",
+              "morning": "Take a day trip to Hoi An Ancient Town (30km, 45-minute drive), explore narrow streets, and visit iconic Japanese Bridge",
+              "afternoon": "Wander through Hoi An's vibrant local market, try street food, and shop for souvenirs",
+              "evening": "Return to Da Nang, enjoy a relaxing evening at a rooftop bar with views of the city",
+              "notes": "Hire a private car or join a group tour for the day trip to Hoi An"
+            },
+            {
+              "day": "Day 3",
+              "city": "Da Nang",
+              "morning": "Visit the Linh Ung Pagoda, a stunning Buddhist temple with panoramic views of the city",
+              "afternoon": "Relax on My Khe Beach, enjoy water sports or simply soak up the sun",
+              "evening": "Explore the night market in Helio Center, try local street food, and shop for souvenirs",
+              "notes": "Check the weather forecast to ensure a sunny day for beach activities"
+            },
+            {
+              "day": "Day 4",
+              "city": "Ba Na Hills",
+              "morning": "Take a day trip to Ba Na Hills (40km, 1-hour drive), ride the world's longest cable car, and explore the Fantasy Park",
+              "afternoon": "Visit the Debay Wine Cellar, and enjoy lunch at a restaurant with stunning views",
+              "evening": "Return to Da Nang, enjoy a farewell dinner at a local restaurant",
+              "notes": "Book the Ba Na Hills tour in advance to ensure availability"
+            }
+          ],
+          "travelTips": [
+            "Try local coffee at a café in Hai Chau District",
+            "Bargain at local markets",
+            "Respect local customs when visiting temples"
+          ],
+          "memoryHints": [
+            "Da Nang's stunning beaches",
+            "Hoi An's ancient town",
+            "Ba Na Hills' breathtaking views"
+          ]
+        },
+        "timestamp": "2025-11-18T04:10:22.889Z"
+      },
+      {
+        "role": "user",
+        "content": "TRIP to New York",
+        "timestamp": "2025-11-18T04:11:19.576Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Discover iconic landmarks, diverse neighborhoods, and world-class food in the city that never sleeps",
+        "data": {
+          "title": "NYC Cultural Immersion",
+          "summary": "Discover iconic landmarks, diverse neighborhoods, and world-class food in the city that never sleeps",
+          "travelerPersona": "Solo adventurer seeking a balanced mix of culture and cuisine",
+          "dayPlans": [
+            {
+              "day": "Day 1",
+              "city": "New York City",
+              "morning": "Start at the iconic Times Square, grab a classic NYC bagel, and walk to the Empire State Building",
+              "afternoon": "Explore the Metropolitan Museum of Art, then stroll through Central Park",
+              "evening": "Enjoy a Broadway show or live music in Greenwich Village",
+              "notes": "Consider purchasing a MetroCard for convenient subway travel"
+            },
+            {
+              "day": "Day 2",
+              "city": "New York City",
+              "morning": "Visit the 9/11 Memorial & Museum, then walk across the Brooklyn Bridge",
+              "afternoon": "Discover street art and trendy boutiques in the Lower East Side",
+              "evening": "Savor a slice of classic New York pizza in Little Italy",
+              "notes": "Be prepared for variable weather; pack layers and waterproof gear"
+            },
+            {
+              "day": "Day 3",
+              "city": "New York City",
+              "morning": "Visit the iconic Statue of Liberty and Ellis Island",
+              "afternoon": "Explore the Museum of Modern Art (MoMA) or the Guggenheim",
+              "evening": "Enjoy a farewell dinner in Chinatown or Koreatown",
+              "notes": "Consider booking a guided tour for the Statue of Liberty to ensure availability"
+            }
+          ],
+          "travelTips": [
+            "Download the Citymapper app for easy navigation",
+            "Be prepared for crowds and lines at popular attractions"
+          ],
+          "memoryHints": [
+            "Try a classic NYC hot dog from a street cart",
+            "Explore a new neighborhood each day to discover unique character"
+          ]
+        },
+        "timestamp": "2025-11-18T04:11:19.577Z"
+      }
+    ],
+    "181224f6-b7c2-43f3-95ca-11e701f6105c": [
+      {
+        "role": "user",
+        "content": "Trip to New York",
+        "timestamp": "2025-11-18T04:16:38.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Experience the magic of New York City during the holiday season",
+        "data": {
+          "title": "Winter Wonderland in New York",
+          "summary": "Experience the magic of New York City during the holiday season",
+          "travelerPersona": "Solo adult seeking a balanced blend of culture, food, and scenic views",
+          "dayPlans": [
+            {
+              "day": "Day 1",
+              "city": "New York City",
+              "morning": "Arrive at JFK Airport, take the AirTrain to Penn Station, and check-in to a mid-range hotel in Midtown Manhattan",
+              "afternoon": "Visit the iconic Rockefeller Center, ice-skate at the rink, and explore the surrounding area",
+              "evening": "Enjoy a classic New York-style pizza at Lombardi's and take a stroll through the festive lights of Fifth Avenue",
+              "notes": "Be prepared for chilly winter weather, dress warmly"
+            },
+            {
+              "day": "Day 2",
+              "city": "New York City",
+              "morning": "Take a short subway ride to the 9/11 Memorial & Museum in Lower Manhattan, followed by a walk across the Brooklyn Bridge for spectacular city views",
+              "afternoon": "Explore the trendy DUMBO neighborhood, visit the Brooklyn Museum, and grab lunch at one of the many artisanal eateries",
+              "evening": "Catch a Broadway show in the Theater District, with options ranging from classic musicals to modern hits",
+              "notes": "Consider purchasing Broadway tickets in advance to ensure availability"
+            },
+            {
+              "day": "Day 3",
+              "city": "New York City",
+              "morning": "Visit the world-famous Metropolitan Museum of Art on the Upper East Side, with a vast collection of art and cultural exhibits",
+              "afternoon": "Take a leisurely stroll through Central Park, exploring the scenic paths, lakes, and landmarks like the Bethesda Fountain",
+              "evening": "Indulge in a foodie's paradise at Chelsea Market, with a variety of restaurants, cafes, and specialty shops",
+              "notes": "Be prepared for potential crowds at popular attractions"
+            },
+            {
+              "day": "Day 4",
+              "city": "New York City",
+              "morning": "Spend the morning exploring the iconic Grand Central Terminal, followed by a visit to the nearby New York Public Library",
+              "afternoon": "Take some time for last-minute shopping or exploration in the trendy SoHo neighborhood",
+              "evening": "Depart for JFK Airport and head back to SFO, reflecting on the unforgettable experiences in the city that never sleeps",
+              "notes": "Double-check flight departure times and plan for sufficient airport arrival time"
+            }
+          ],
+          "travelTips": [
+            "Book Broadway tickets in advance",
+            "Pack warm clothing for winter weather",
+            "Consider purchasing a MetroCard for convenient subway travel"
+          ],
+          "memoryHints": [
+            "Try a classic New York-style hot dog from a street cart",
+            "Take a photo in front of the iconic Christmas tree at Rockefeller Center"
+          ]
+        },
+        "timestamp": "2025-11-18T04:16:38.854Z"
+      }
+    ]
+  },
+  "plans": {
+    "fc7a1c6b-1454-44aa-80cc-ba0ec9107c02": {
+      "plan": {
+        "title": "Barcelona Remote Work + Culture Sprint",
+        "summary": "Blend morning focus blocks with late-afternoon tapas crawls and seaside resets tailored to remote professionals.",
+        "travelerPersona": "Remote professional seeking vibrant neighborhoods, art and easy transit.",
+        "dayPlans": [
+          {
+            "day": "Day 1",
+            "city": "Barcelona",
+            "morning": "Heads-down work session at co-working space near Passeig de Gràcia.",
+            "afternoon": "La Sagrada Família small-group tour and Eixample tapas walk.",
+            "evening": "Sunset at Bunkers del Carmel followed by paella near Barceloneta.",
+            "notes": "Purchase T-mobilitat card for unlimited transit."
+          },
+          {
+            "day": "Day 2",
+            "city": "Barcelona",
+            "morning": "Coffee at Nomad Coffee Lab and async work at hotel lounge.",
+            "afternoon": "Picasso Museum visit and Gothic Quarter architecture stroll.",
+            "evening": "Flamenco show in El Born with late-night churros.",
+            "notes": "Reserve timed tickets to avoid queues."
+          }
+        ],
+        "travelTips": [
+          "Use Hola Barcelona card for 48/72 hour metro coverage.",
+          "Pre-book popular attractions two weeks in advance.",
+          "Restaurants start dinner after 8pm; plan snacks."
+        ],
+        "memoryHints": [
+          "Prefers co-working friendly itineraries.",
+          "Enjoys art, tapas and scenic overlooks.",
+          "Flexible budget for immersive experiences."
+        ]
+      },
+      "savedAt": "2025-11-18T03:38:12.283Z"
+    },
+    "981bdac3-7585-4896-8c4e-67f8f9f3f665": {
+      "plan": {
+        "title": "Barcelona Remote Work + Culture Sprint",
+        "summary": "Blend morning focus blocks with late-afternoon tapas crawls and seaside resets tailored to remote professionals.",
+        "travelerPersona": "Remote professional seeking vibrant neighborhoods, art and easy transit.",
+        "dayPlans": [
+          {
+            "day": "Day 1",
+            "city": "Barcelona",
+            "morning": "Heads-down work session at co-working space near Passeig de Gràcia.",
+            "afternoon": "La Sagrada Família small-group tour and Eixample tapas walk.",
+            "evening": "Sunset at Bunkers del Carmel followed by paella near Barceloneta.",
+            "notes": "Purchase T-mobilitat card for unlimited transit."
+          },
+          {
+            "day": "Day 2",
+            "city": "Barcelona",
+            "morning": "Coffee at Nomad Coffee Lab and async work at hotel lounge.",
+            "afternoon": "Picasso Museum visit and Gothic Quarter architecture stroll.",
+            "evening": "Flamenco show in El Born with late-night churros.",
+            "notes": "Reserve timed tickets to avoid queues."
+          }
+        ],
+        "travelTips": [
+          "Use Hola Barcelona card for 48/72 hour metro coverage.",
+          "Pre-book popular attractions two weeks in advance.",
+          "Restaurants start dinner after 8pm; plan snacks."
+        ],
+        "memoryHints": [
+          "Prefers co-working friendly itineraries.",
+          "Enjoys art, tapas and scenic overlooks.",
+          "Flexible budget for immersive experiences."
+        ]
+      },
+      "savedAt": "2025-11-18T03:51:43.417Z"
+    },
+    "37bf9d59-8978-4535-9f34-7f3db9a8e3be": {
+      "plan": {
+        "title": "Barcelona Remote Work + Culture Sprint",
+        "summary": "Blend morning focus blocks with late-afternoon tapas crawls and seaside resets tailored to remote professionals.",
+        "travelerPersona": "Remote professional seeking vibrant neighborhoods, art and easy transit.",
+        "dayPlans": [
+          {
+            "day": "Day 1",
+            "city": "Barcelona",
+            "morning": "Heads-down work session at co-working space near Passeig de Gràcia.",
+            "afternoon": "La Sagrada Família small-group tour and Eixample tapas walk.",
+            "evening": "Sunset at Bunkers del Carmel followed by paella near Barceloneta.",
+            "notes": "Purchase T-mobilitat card for unlimited transit."
+          },
+          {
+            "day": "Day 2",
+            "city": "Barcelona",
+            "morning": "Coffee at Nomad Coffee Lab and async work at hotel lounge.",
+            "afternoon": "Picasso Museum visit and Gothic Quarter architecture stroll.",
+            "evening": "Flamenco show in El Born with late-night churros.",
+            "notes": "Reserve timed tickets to avoid queues."
+          }
+        ],
+        "travelTips": [
+          "Use Hola Barcelona card for 48/72 hour metro coverage.",
+          "Pre-book popular attractions two weeks in advance.",
+          "Restaurants start dinner after 8pm; plan snacks."
+        ],
+        "memoryHints": [
+          "Prefers co-working friendly itineraries.",
+          "Enjoys art, tapas and scenic overlooks.",
+          "Flexible budget for immersive experiences."
+        ]
+      },
+      "savedAt": "2025-11-18T03:58:59.124Z"
+    },
+    "b3ae8444-4fc6-47c2-80bf-cf4d1dfc8a3a": {
+      "plan": {
+        "title": "Solo Adventure in the Big Apple",
+        "summary": "Explore iconic NYC neighborhoods, savor diverse cuisine, and enjoy cultural attractions at a relaxed pace",
+        "travelerPersona": "Solo adventurer seeking a balanced experience",
+        "dayPlans": [
+          {
+            "day": "Day 1",
+            "city": "New York City",
+            "morning": "Arrive at JFK, take subway to Midtown, check-in to hotel, and explore nearby Bryant Park",
+            "afternoon": "Walk to the Museum of Modern Art (MoMA), visit iconic artworks, and grab lunch at a nearby cafe",
+            "evening": "Head to the West Village for dinner and drinks, exploring charming streets and historic brownstones",
+            "notes": "Buy a MetroCard for easy subway travel, consider a Midtown hotel for central access"
+          },
+          {
+            "day": "Day 2",
+            "city": "New York City",
+            "morning": "Take the subway to Lower Manhattan, visit 9/11 Memorial & Museum, and walk across the Brooklyn Bridge",
+            "afternoon": "Explore DUMBO, Brooklyn, and grab lunch at a trendy cafe or food truck",
+            "evening": "Enjoy dinner in Chinatown, try authentic eats, and explore the vibrant neighborhood",
+            "notes": "Be prepared for security checks at 9/11 Memorial, consider a food tour in Chinatown"
+          },
+          {
+            "day": "Day 3",
+            "city": "New York City",
+            "morning": "Visit the iconic Grand Central Terminal, grab breakfast at the Grand Central Market",
+            "afternoon": "Take a stroll through Central Park, visit the Metropolitan Museum of Art, and enjoy a picnic lunch",
+            "evening": "Head to the Theater District, catch a Broadway show, and enjoy dinner at a classic NYC restaurant",
+            "notes": "Book Broadway tickets in advance, consider a guided tour of Central Park"
+          },
+          {
+            "day": "Day 4",
+            "city": "New York City",
+            "morning": "Take the subway to Williamsburg, Brooklyn, explore vintage shops and street art",
+            "afternoon": "Grab brunch at a trendy cafe, visit the Brooklyn Museum, and explore Prospect Park",
+            "evening": "Enjoy a farewell dinner in the East Village, try a classic NYC pizzeria, and head back to the airport for departure",
+            "notes": "Be prepared for crowds in Williamsburg, consider a food tour in the East Village"
+          }
+        ],
+        "travelTips": [
+          "Buy a MetroCard for easy subway travel",
+          "Book Broadway tickets in advance",
+          "Be prepared for security checks at 9/11 Memorial"
+        ],
+        "memoryHints": [
+          "Try a classic NYC hot dog",
+          "Explore iconic NYC neighborhoods",
+          "Enjoy diverse cultural attractions"
+        ]
+      },
+      "savedAt": "2025-11-18T04:07:55.243Z"
+    },
+    "18a27b7a-7fc0-43b6-ba36-fc91aa8084f9": {
+      "plan": {
+        "title": "NYC Cultural Immersion",
+        "summary": "Discover iconic landmarks, diverse neighborhoods, and world-class food in the city that never sleeps",
+        "travelerPersona": "Solo adventurer seeking a balanced mix of culture and cuisine",
+        "dayPlans": [
+          {
+            "day": "Day 1",
+            "city": "New York City",
+            "morning": "Start at the iconic Times Square, grab a classic NYC bagel, and walk to the Empire State Building",
+            "afternoon": "Explore the Metropolitan Museum of Art, then stroll through Central Park",
+            "evening": "Enjoy a Broadway show or live music in Greenwich Village",
+            "notes": "Consider purchasing a MetroCard for convenient subway travel"
+          },
+          {
+            "day": "Day 2",
+            "city": "New York City",
+            "morning": "Visit the 9/11 Memorial & Museum, then walk across the Brooklyn Bridge",
+            "afternoon": "Discover street art and trendy boutiques in the Lower East Side",
+            "evening": "Savor a slice of classic New York pizza in Little Italy",
+            "notes": "Be prepared for variable weather; pack layers and waterproof gear"
+          },
+          {
+            "day": "Day 3",
+            "city": "New York City",
+            "morning": "Visit the iconic Statue of Liberty and Ellis Island",
+            "afternoon": "Explore the Museum of Modern Art (MoMA) or the Guggenheim",
+            "evening": "Enjoy a farewell dinner in Chinatown or Koreatown",
+            "notes": "Consider booking a guided tour for the Statue of Liberty to ensure availability"
+          }
+        ],
+        "travelTips": [
+          "Download the Citymapper app for easy navigation",
+          "Be prepared for crowds and lines at popular attractions"
+        ],
+        "memoryHints": [
+          "Try a classic NYC hot dog from a street cart",
+          "Explore a new neighborhood each day to discover unique character"
+        ]
+      },
+      "savedAt": "2025-11-18T04:11:19.579Z"
+    },
+    "181224f6-b7c2-43f3-95ca-11e701f6105c": {
+      "plan": {
+        "title": "Winter Wonderland in New York",
+        "summary": "Experience the magic of New York City during the holiday season",
+        "travelerPersona": "Solo adult seeking a balanced blend of culture, food, and scenic views",
+        "dayPlans": [
+          {
+            "day": "Day 1",
+            "city": "New York City",
+            "morning": "Arrive at JFK Airport, take the AirTrain to Penn Station, and check-in to a mid-range hotel in Midtown Manhattan",
+            "afternoon": "Visit the iconic Rockefeller Center, ice-skate at the rink, and explore the surrounding area",
+            "evening": "Enjoy a classic New York-style pizza at Lombardi's and take a stroll through the festive lights of Fifth Avenue",
+            "notes": "Be prepared for chilly winter weather, dress warmly"
+          },
+          {
+            "day": "Day 2",
+            "city": "New York City",
+            "morning": "Take a short subway ride to the 9/11 Memorial & Museum in Lower Manhattan, followed by a walk across the Brooklyn Bridge for spectacular city views",
+            "afternoon": "Explore the trendy DUMBO neighborhood, visit the Brooklyn Museum, and grab lunch at one of the many artisanal eateries",
+            "evening": "Catch a Broadway show in the Theater District, with options ranging from classic musicals to modern hits",
+            "notes": "Consider purchasing Broadway tickets in advance to ensure availability"
+          },
+          {
+            "day": "Day 3",
+            "city": "New York City",
+            "morning": "Visit the world-famous Metropolitan Museum of Art on the Upper East Side, with a vast collection of art and cultural exhibits",
+            "afternoon": "Take a leisurely stroll through Central Park, exploring the scenic paths, lakes, and landmarks like the Bethesda Fountain",
+            "evening": "Indulge in a foodie's paradise at Chelsea Market, with a variety of restaurants, cafes, and specialty shops",
+            "notes": "Be prepared for potential crowds at popular attractions"
+          },
+          {
+            "day": "Day 4",
+            "city": "New York City",
+            "morning": "Spend the morning exploring the iconic Grand Central Terminal, followed by a visit to the nearby New York Public Library",
+            "afternoon": "Take some time for last-minute shopping or exploration in the trendy SoHo neighborhood",
+            "evening": "Depart for JFK Airport and head back to SFO, reflecting on the unforgettable experiences in the city that never sleeps",
+            "notes": "Double-check flight departure times and plan for sufficient airport arrival time"
+          }
+        ],
+        "travelTips": [
+          "Book Broadway tickets in advance",
+          "Pack warm clothing for winter weather",
+          "Consider purchasing a MetroCard for convenient subway travel"
+        ],
+        "memoryHints": [
+          "Try a classic New York-style hot dog from a street cart",
+          "Take a photo in front of the iconic Christmas tree at Rockefeller Center"
+        ]
+      },
+      "savedAt": "2025-11-18T04:16:38.856Z"
+    }
+  }
+}

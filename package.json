@@ -1,0 +1,30 @@
+{
+  "name": "cf_ai_travel",
+  "version": "1.0.0",
+  "description": "Travel planning AI agent on Cloudflare with React client and Node backend",
+  "private": true,
+  "workspaces": [
+    "client",
+    "server",
+    "cloudflare"
+  ],
+  "scripts": {
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
+    "build:client": "npm run build --prefix client",
+    "start": "npm run start --prefix server",
+    "lint": "npm run lint --prefix server"
+  },
+  "keywords": [
+    "cloudflare",
+    "agents",
+    "travel",
+    "llm"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}

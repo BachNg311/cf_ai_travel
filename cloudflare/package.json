@@ -1,0 +1,24 @@
+{
+  "name": "cf_ai_travel_agent",
+  "version": "1.0.0",
+  "description": "Cloudflare Agents Durable Object powering the travel workflow",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev src/agent.ts",
+    "deploy": "wrangler deploy"
+  },
+  "keywords": [
+    "cloudflare",
+    "agents",
+    "durable-objects"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "agents": "^0.2.23",
+    "cf_ai_travel": "file:.."
+  },
+  "devDependencies": {
+    "wrangler": "^4.47.0"
+  }
+}
