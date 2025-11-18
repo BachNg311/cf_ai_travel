@@ -5,3 +5,4 @@ server/.env
 client/.env
 cloudflare/.wrangler/state
 
+cloudflare/.wrangler.local.toml

@@ -1,7 +1,12 @@
-import { Agent, AgentNamespace, callable } from 'agents';
+import { Agent, callable, routeAgentRequest } from 'agents';
 
 type Env = {
-  AI: Ai;
+  AI: {
+    run: (
+      model: string,
+      options: Record<string, unknown>
+    ) => Promise<{ response?: unknown }>;
+  };
 };
 
 type TravelState = {
@@ -13,6 +18,7 @@ type TravelState = {
 };
 
 export class TravelAgent extends Agent<Env, TravelState> {
+  declare env: Env;
   onStart() {
     this.setState({
       profile: {},
@@ -44,12 +50,13 @@ export class TravelAgent extends Agent<Env, TravelState> {
     ].join('\n');
 
     const { response } = await this.env.AI.run(
-      '@cf/meta/llama-3.3-70b-instruct-fp8-fast',
+      '@cf/meta/llama-3.1-8b-instruct',
       {
         messages: [
           { role: 'system', content: 'Travel planning JSON-only assistant.' },
           { role: 'user', content: prompt }
-        ]
+        ],
+        max_tokens: 8192
       }
     );
 
@@ -69,7 +76,24 @@ export class TravelAgent extends Agent<Env, TravelState> {
   }
 }
 
-export default new AgentNamespace({
+export default {
+  async fetch(request: Request, env: Env & Record<string, unknown>, _ctx: unknown) {
+    const response = await routeAgentRequest(request, env, { cors: true });
+    if (response) {
+      return response;
+    }
+    return new Response(
+      JSON.stringify({
+        message: 'Cloudflare agent is deployed. Use the Agents client (ws/http) paths under /agents/:namespace/:room.'
+      }),
+      {
+        status: 200,
+        headers: {
+          'content-type': 'application/json'
+        }
+      }
+    );
+  },
   TravelAgent
-});
+};
 

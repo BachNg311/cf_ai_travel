@@ -19,6 +19,8 @@
     "cf_ai_travel": "file:.."
   },
   "devDependencies": {
+    "@cloudflare/workers-types": "^4.20251118.0",
+    "@types/node": "^24.10.1",
     "wrangler": "^4.47.0"
   }
 }
